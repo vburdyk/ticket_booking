@@ -1,0 +1,21 @@
+venv/
+
+__pycache__/
+*.pyc
+*.pyo
+
+db.sqlite3
+*.sqlite3
+
+# Логи
+*.log
+debug.log
+
+.env
+
+staticfiles/
+
+*.swp
+*.swo
+
+.idea/
